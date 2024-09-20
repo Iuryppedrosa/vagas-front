@@ -57,8 +57,7 @@ A interface foi projetada para ser totalmente responsiva, garantindo uma ótima 
 
 ## 🔗 Links Úteis
 
-- 🌍 [Acesse o projeto online](https://yourprojectlink.com)
-- 📸 **Screenshots** (em breve)
+- 🌍 [Acesse o projeto online]([https://yourprojectlink.com](https://main--app-list-vagas.netlify.app/#))
 
 ---
 
